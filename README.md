@@ -3,6 +3,9 @@
 
 This module was adapted from one of wp developer’s discussion. The discussion was about creating the same hook environment as it’s PHP counterpart in Javascript. With that said, let’s test it out. I’ve already tried to salvage its methods, so that it can be accessed through simple requires.
 
+## installation
+[install using npm](https://www.npmjs.com/package/node-wp_hooks)
+
 ## Functions
 ```javascript
 var hooks = require( ‘node-wp_hooks’ );
