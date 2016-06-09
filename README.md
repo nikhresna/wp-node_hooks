@@ -28,5 +28,5 @@ hooks.reload();
 
 ## Contact 
 If you find anything and would like to let us know,
-[sean@twellve-miracle.com](mailto:sean@twellve-miracle.com)
-[nikko@mrcl.xyz](mailto:nikko@mrcl.xyz)
+sean@twellve-miracle.com
+nikko@mrcl.xyz
