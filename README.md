@@ -1,8 +1,9 @@
 # wp-node_hooks
-a documentation of what it does
+## a documentation of what it does
 
 This module was adapted from one of wp developer’s discussion. The discussion was about creating the same hook environment as it’s PHP counterpart in Javascript. With that said, let’s test it out. I’ve already tried to salvage its methods, so that it can be accessed through simple requires.
 
+## Functions
 ```javascript
 var hooks = require( ‘node-wp_hooks’ );
 
