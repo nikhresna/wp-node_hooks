@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      "node-wp_hooks",
+      "c:\\xampp\\htdocs\\node-wp_hooks"
+    ]
+  ],
+  "_from": "node-wp_hooks@latest",
+  "_id": "node-wp_hooks@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/node-wp_hooks",
+  "_nodeVersion": "4.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/node-wp_hooks-0.0.1.tgz_1462689958891_0.932916693855077"
+  },
+  "_npmUser": {
+    "email": "sean.michael.piettojo@gmail.com",
+    "name": "sean-michael"
+  },
+  "_npmVersion": "2.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "node-wp_hooks",
+    "raw": "node-wp_hooks",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-wp_hooks/-/node-wp_hooks-0.0.1.tgz",
+  "_shasum": "ec6f19a09169884654f83da58c70521dc1cf5177",
+  "_shrinkwrap": null,
+  "_spec": "node-wp_hooks",
+  "_where": "c:\\xampp\\htdocs\\node-wp_hooks",
+  "author": {
+    "email": "sean.michael.piettojo@gmail.com",
+    "name": "Sean",
+    "url": "http://www.cl0ckw0rks.com"
+  },
+  "dependencies": {},
+  "description": "Use wp hooks in node",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ec6f19a09169884654f83da58c70521dc1cf5177",
+    "tarball": "https://registry.npmjs.org/node-wp_hooks/-/node-wp_hooks-0.0.1.tgz"
+  },
+  "keywords": [
+    "hooks",
+    "node"
+  ],
+  "license": "ISC",
+  "main": "wp-hooks.js",
+  "maintainers": [
+    {
+      "name": "sean-michael",
+      "email": "sean.michael.piettojo@gmail.com"
+    }
+  ],
+  "name": "node-wp_hooks",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
